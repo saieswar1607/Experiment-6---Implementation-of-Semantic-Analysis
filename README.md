@@ -24,10 +24,6 @@ Construct a python program to read a text from a file.Identify the verbs from th
 
 ## Program:
 ```
-Developed by: Challa Sandeep
-Register Number: 212221240011
-```
-```
 import nltk
 from nltk.corpus import wordnet
 
